@@ -5,7 +5,7 @@ const table = [
     ["name", "job"],
     ["chicken", "program dog"]
 ]
-fs.writeFileSync("Chicken.csv",stringif(table));
+fs.writeFileSync("Chicken.csv",stringify(table));
 console.log(file);
 for (let i = 0; i < 10; i++)
     console.log("Hello World")
